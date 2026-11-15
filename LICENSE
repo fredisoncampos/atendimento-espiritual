@@ -60,10 +60,11 @@ modification follow.
 
   0. Definitions.
 
-  "This License" refers to version 3 of the GNU Affero General Public License.
+  "This License" refers to version 3 of the GNU Affero General Public
+License.
 
-  "Copyright" also means copyright-like laws that apply to other kinds of
-works, such as semiconductor masks.
+  "Copyright" also means copyright-like laws that apply to other kinds
+of works, such as semiconductor masks.
 
   "The Program" refers to any copyrightable work licensed under this
 License.  Each licensee is addressed as "you".  "Licensees" and
@@ -132,12 +133,11 @@ linked subprograms that the work is specifically designed to require,
 such as by intimate data communication or control flow between those
 subprograms and other parts of the work.
 
-  The Corresponding Source need not include anything that users
-can regenerate automatically from other parts of the Corresponding
-Source.
+  The Corresponding Source need not include anything that users can
+regenerate automatically from other parts of the Corresponding Source.
 
-  The Corresponding Source for a work in source code form is that
-same work.
+  The Corresponding Source for a work in source code form is that same
+work.
 
   2. Basic Permissions.
 
@@ -389,8 +389,8 @@ additional terms that apply to those files, or a notice indicating
 where to find the applicable terms.
 
   Additional terms, permissive or non-permissive, may be stated in the
-form of a separately written license, or stated as exceptions;
-the above requirements apply either way.
+form of a separately written license, or stated as exceptions; the
+above requirements apply either way.
 
   8. Termination.
 
@@ -629,8 +629,9 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    <one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) <year>  <name of author>
+    Sistema de Atendimento Espiritual
+    Copyright (C) 2026  Fredison Campos e colaboradores
+    https://github.com/fredisoncampos/atendimento-espiritual
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published
@@ -645,7 +646,7 @@ the "copyright" line and a pointer to where the full notice is found.
     You should have received a copy of the GNU Affero General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-Also add information on how to contact you by electronic and paper mail.
+  Also add information on how to contact you by electronic and paper mail.
 
   If your software can interact with users remotely through a computer
 network, you should also make sure that it provides a way for users to

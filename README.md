@@ -1,4 +1,18 @@
-# Sistema de Atendimento Espiritual
+# 🕊️ Sistema de Atendimento Espiritual
+
+![Licença: AGPL-3.0](https://img.shields.io/badge/licen%C3%A7a-AGPL--3.0-blue)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-1.9.3-green)
+![Plataformas](https://img.shields.io/badge/plataformas-Windows%20%7C%20Linux-lightgrey)
+
+> Software **livre e gratuito** para casas espíritas e espiritualistas organizarem o **atendimento fraterno** — feito para ser doado a quem não tem condições de pagar por sistemas de mercado.
+
+Funciona **dentro da própria casa, sem internet**: um computador guarda os dados e serve de central, e outros aparelhos no mesmo Wi-Fi (computadores, tablets e celulares) acessam pelo navegador. Sem mensalidade, sem nuvem obrigatória, sem depender de ninguém.
+
+**Baixe a versão pronta** na aba [**Releases**](https://github.com/fredisoncampos/atendimento-espiritual/releases) (instalador do Windows, pacote `.deb` e versão portátil para Linux).
+
+Desenvolvido por **Fredison** (idealização e coordenação) e **Claude**, assistente de IA da Anthropic (programação).
+
+---
 
 Sistema gratuito e de código aberto para casas espíritas e espiritualistas organizarem o **atendimento fraterno**. Com ele a casa faz:
 
