@@ -2,6 +2,11 @@
 
 As versões seguem a ideia de "mudanças grandes . mudanças médias . correções".
 
+## 1.9.4
+- Item 12 (Encaminhamento): em cada tipo escolhido dá para marcar **de 1 a 8 sessões** (ex.: Cromoterapia 8, Reiki 1). O número aparece na **Agenda de retornos** do Início e também sai na ficha impressa.
+- Item 6 (Culto do Evangelho no Lar): quando o paciente **não** realiza, a visita da Caravana agora tem as opções **"Sim (presencial)"**, **"Sim (online)"** e **"Não"**.
+- Item 11 (Evolução): o campo passou a se chamar apenas **"Síntese do Atendimento"**.
+
 ## 1.9.3
 - Correção: ao cadastrar um novo paciente no meio do "Novo atendimento", os dados já preenchidos (recepcionante, respostas e consentimento) **não se perdem mais** ao voltar.
 - Na tela Início, a lista de atendimentos em andamento mostra a coluna **"Encam."** com o número de encaminhamentos de cada ficha.

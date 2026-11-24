@@ -1,7 +1,7 @@
 # 🕊️ Sistema de Atendimento Espiritual
 
 ![Licença: AGPL-3.0](https://img.shields.io/badge/licen%C3%A7a-AGPL--3.0-blue)
-![Versão](https://img.shields.io/badge/vers%C3%A3o-1.9.3-green)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-1.9.4-green)
 ![Plataformas](https://img.shields.io/badge/plataformas-Windows%20%7C%20Linux-lightgrey)
 
 > Software **livre e gratuito** para casas espíritas e espiritualistas organizarem o **atendimento fraterno** — feito para ser doado a quem não tem condições de pagar por sistemas de mercado.
@@ -21,7 +21,7 @@ Sistema gratuito e de código aberto para casas espíritas e espiritualistas org
 - **C. Novo atendimento** com o questionário dos passos 1 a 10 e a impressão da ficha
 - **D. Atendimento**: lançamento da evolução semanal (data, triador e triagem das semanas 1 a 4), copiada da ficha preenchida à mão
 
-Novidades da versão 1.9: licença AGPL-3.0, administrador padrão na primeira instalação (Admin / 123456, com aviso para trocar), lembrete de retorno por WhatsApp (mensagem configurável), relatório de faltas/frequência, botão "Sobre" com créditos e manual de uso dentro do sistema. Versões anteriores trouxeram: datas em dd/mm/aaaa, tela de Atendimento com semanas recolhíveis, registro de falta e reagendamento, relatório do mês, busca sem acento, aviso de paciente duplicado, ajuda em cada tela, tamanho de letra ajustável, tutorial no primeiro uso, recuperação de senha, cor do tema, agenda de retornos e restauração de backup pela tela.
+Novidades da versão 1.9.4: no item 12 (Encaminhamento) dá para escolher de 1 a 8 sessões por tipo (aparecem na Agenda de retornos e na ficha); no item 6, a visita da Caravana tem as opções "Sim (presencial)", "Sim (online)" e "Não". Da série 1.9: licença AGPL-3.0, administrador padrão na primeira instalação (Admin / 123456, com aviso para trocar), lembrete de retorno por WhatsApp (mensagem configurável), relatório de faltas/frequência, botão "Sobre" com créditos e manual de uso dentro do sistema. Versões anteriores trouxeram: datas em dd/mm/aaaa, tela de Atendimento com semanas recolhíveis, registro de falta e reagendamento, relatório do mês, busca sem acento, aviso de paciente duplicado, ajuda em cada tela, tamanho de letra ajustável, tutorial no primeiro uso, recuperação de senha, cor do tema, agenda de retornos e restauração de backup pela tela.
 
 O sistema funciona **dentro da própria casa**, sem internet. Um computador com Windows guarda os dados e serve de central. Os outros aparelhos ligados ao mesmo Wi-Fi (computadores, tablets e celulares) acessam pelo navegador.
 
@@ -29,7 +29,7 @@ O sistema funciona **dentro da própria casa**, sem internet. Um computador com 
 
 ## Para a casa espírita: como instalar
 
-1. Baixe o arquivo **`Instalar-Atendimento-Espiritual-1.9.0.exe`** no computador que vai ser a central.
+1. Baixe o arquivo **`Instalar-Atendimento-Espiritual-1.9.4.exe`** (ou o `.zip` que o contém) no computador que vai ser a central.
 2. Clique duas vezes nele e depois em **Avançar** até terminar.
    - O Windows pode mostrar a mensagem *"O Windows protegeu o computador"*, porque o programa é novo e ainda não tem assinatura digital. Clique em **Mais informações** e depois em **Executar assim mesmo**.
    - Deixe marcada a opção **Iniciar junto com o Windows** se outros aparelhos forem usar o sistema.

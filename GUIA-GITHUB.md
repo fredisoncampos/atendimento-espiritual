@@ -25,7 +25,7 @@ A forma mais fácil, sem instalar nada:
 1. Entre em `github.com/fredisoncampos/atendimento-espiritual`.
 2. Clique em **Add file → Upload files**.
 3. Arraste as pastas/arquivos da lista "Suba" acima.
-4. Em baixo, escreva uma descrição curta (ex.: "versão 1.9.3") e clique em **Commit changes**.
+4. Em baixo, escreva uma descrição curta (ex.: "versão 1.9.4") e clique em **Commit changes**.
 
 > Dica: para substituir uma pasta inteira, suba os arquivos novos por cima — o GitHub cria uma nova versão de cada arquivo.
 
@@ -36,13 +36,13 @@ Se um dia quiser usar o **GitHub Desktop** (programa com janelas, sem terminal),
 É aqui que ficam os arquivos prontos para as casas baixarem:
 
 1. No repositório, clique em **Releases** (lado direito) → **Draft a new release**.
-2. Em **Tag**, escreva a versão, ex.: `v1.9.3`.
-3. Em **Title**, algo como "Atendimento Espiritual 1.9.3".
+2. Em **Tag**, escreva a versão, ex.: `v1.9.4`.
+3. Em **Title**, algo como "Atendimento Espiritual 1.9.4".
 4. Na descrição, cole as novidades daquela versão (pode copiar do `CHANGELOG.md`).
 5. Em **Attach binaries**, arraste os arquivos prontos:
-   - `Instalar-Atendimento-Espiritual-v1.9.3.zip` (Windows)
-   - `atendimento-espiritual_1.9.3_amd64.deb` (Linux Ubuntu/Mint/Debian)
-   - `atendimento-espiritual-linux-portatil-1.9.3.tar.gz` (outras distros Linux)
+   - `Instalar-Atendimento-Espiritual-v1.9.4.zip` (Windows)
+   - `atendimento-espiritual_1.9.4_amd64.deb` (Linux Ubuntu/Mint/Debian)
+   - `atendimento-espiritual-linux-portatil-1.9.4.tar.gz` (outras distros Linux)
 6. Clique em **Publish release**.
 
 Pronto: o link da aba Releases é o que você divulga para as casas.
